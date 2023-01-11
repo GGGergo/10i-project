@@ -1,0 +1,73 @@
+#navbar{
+    background-color:rgb(142, 176, 228);
+    height: 70px;
+}
+h1{
+    text-align: center;
+    margin: 425px;
+    border-radius: 50px;
+    
+}
+body{
+    background-image: url(osztaly.png);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+#alma{
+      width: 98%;
+      margin: auto;
+}
+#PGlogo{
+    width: 325px;
+    margin-top: 520px;
+    margin-left: 0%;
+    height: 50px;
+    background-color: white;
+}
+#nevsor{
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 40%;
+    height: 1000px;
+    background-color: white;
+    border-radius: 25px;
+}
+h2{
+    text-align: center;
+    border-radius: 25px;
+}
+#AndrásiEndre{
+    text-align: center;
+}
+#BalázsLászló{
+    text-align: center;
+}
+#Áron-GörögSzilvia{
+    text-align: center;
+}
+#CsukaTibor{
+    text-align: center;
+}
+#DongóPéter{
+    text-align: center;
+}
+#HódiÁgnes{
+    text-align: center;
+}
+#KissGábor{
+    text-align: center;
+}
+#SimóZsuzsanna{
+    text-align: center;
+}
+#VasViola{
+    text-align: center;
+}
+#VinczeZsolt{
+    text-align: center;
+}
+#EszesGergely{
+    text-align: center;
+}

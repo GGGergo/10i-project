@@ -1,0 +1,21 @@
+#navbar{
+  background-color:rgb(142, 176, 228);
+  height: 70px;
+}
+h1{
+  text-align: center;
+  margin: 425px;
+  border-radius: 50px;
+  
+}
+body{
+  background-image: url(osztaly.png);
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+#alma{
+    width: 98%;
+    margin: auto;
+}
