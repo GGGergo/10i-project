@@ -280,3 +280,10 @@ h1{
     text-align: left;
     margin: auto;
 }
+a:visited {
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
